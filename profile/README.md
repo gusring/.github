@@ -46,9 +46,9 @@
 **금천구 리빙랩 프로젝트 · RISE 사업**  
 동양미래대학교 Team EL
 
- - 컴퓨터소프트웨어공학과 김민정
- - 컴퓨터소프트웨어공학과 하은현
- - 컴퓨터소프트웨어공학과 심민식
- - 컴퓨터소프트웨어공학과 신동수
+ - 컴퓨터소프트웨어공학과 [김민정](https://github.com/miiniminimo)
+ - 컴퓨터소프트웨어공학과 [하은현](https://github.com/gkdmsgus)
+ - 컴퓨터소프트웨어공학과 [심민식](https://github.com/minsik1014)
+ - 컴퓨터소프트웨어공학과 [신동수](https://github.com/Dungsu)
 
 > © 2026 Geumcheon-gu Living Lab
